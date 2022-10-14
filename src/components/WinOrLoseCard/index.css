@@ -1,0 +1,33 @@
+/* Write your code here. */
+.emoji-result {
+  background-color: #9796f0;
+  padding: 30px;
+  display: flex;
+  color: #ffffff;
+  border-radius: 20px;
+}
+.result-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.result-heading {
+  font-weight: bold;
+}
+.best-score {
+  font-size: 24px;
+  font-weight: bold;
+}
+.score-card {
+  font-size: 20px;
+  font-size: bold;
+}
+.playagain-button {
+  padding: 10px;
+  background-color: #ffce27;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
