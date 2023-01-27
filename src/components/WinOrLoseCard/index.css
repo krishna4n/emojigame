@@ -1,0 +1,27 @@
+/* Write your code here. */
+.loss-card-container {
+  color: #ffffff;
+  font-family: Roboto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  width: 60vw;
+  background: #ffffff33;
+  border-radius: 10px;
+  border: 1px solid #ffffff30;
+  padding: 20px;
+}
+
+.play-again-button {
+  padding: 10px;
+  background: #ffce27;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  color: #3d3d3d;
+}
+.loss-image {
+  width: 80%;
+  height: 80%;
+}
